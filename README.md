@@ -15,6 +15,8 @@
 -[VsCode jQuery Snippets Extension ](https://marketplace.visualstudio.com/items?itemName=AbhiPatel.jquery-snippets&ssr=false#review-details)
 <br />
 -[Chrome Ad-Blocker](https://github.com/patelabhi23/chrome-ad-blocker)
+<br />
+-[Chrome Medium-Incognito](https://github.com/patelabhi23/chrome-medium-incognito)
 
 <h3 align="left">Languages and Tools Used:</h3>
 <p align="left"> 
