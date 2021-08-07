@@ -12,7 +12,7 @@
 
 <h3 align="left">Things I Have Developed Recently</h3>
 
--[VsCode jQuery Snippets Extension ](https://marketplace.visualstudio.com/items?itemName=AbhiPatel.jquery-snippets&ssr=false#review-details)
+-[VsCode jQuery Snippets Extension ](https://marketplace.visualstudio.com/items?itemName=AbhiPatel.jquery-snippets&ssr=false#overview)
 <br />
 -[Chrome Ad-Blocker](https://github.com/patelabhi23/chrome-ad-blocker)
 <br />
